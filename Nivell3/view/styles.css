@@ -1,0 +1,27 @@
+body{
+    background-image: url('chuck.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#content{
+    margin-top: 20%;
+}
+button {
+    font-size: 15px;
+    border-radius: 8px;
+    background-color: #d4853a;
+    padding: 8px;
+    cursor: pointer;
+    margin-left: 20%;
+}
+#chiste1{
+    width: 21%;
+    padding: 3%;
+    background:rgb(0,0,0,0.5);
+    color: white;
+    margin-left: 10%;
+    border-radius: 5px;
+}
+  
